@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there ! 👋
 
 - 🔭 I am currently working on automotive software architecture design
 - 🌱 I’m currently learning multi agent modelling techniques for autonomous driving
