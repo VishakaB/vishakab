@@ -1,7 +1,7 @@
 ## Hey there ! 👋
 
-- 🔭 I am currently working on automotive software architecture design
-- 🌱 I’m currently learning multi agent modelling techniques for autonomous driving
+- 🔭 I'm currently working on automotive software architecture design
+- 🌱 I’m learning multi agent modelling techniques for autonomous driving
 - 👯 I’m looking to collaborate on testing automotive software architecture and verification
 - 🤔 I’m looking for help with automotive software standards
 - 💬 Ask me about Research, Teaching, Productivity, Mind  
